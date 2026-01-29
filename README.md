@@ -78,14 +78,9 @@ Hanya butuh 3 langkah untuk mulai menggunakan **WhatsApp Gateway API** ini:
 2.  **Koneksi:** Scan QR Code WhatsApp melalui dashboard (seperti login WA Web).
 3.  **Integrasi:** Ambil API Key Anda dan mulai kirim pesan melalui dokumentasi yang tersedia.
 
-```bash
-# Contoh Request API Sederhana (cURL)
-curl -X POST [https://api.flowkirim.com/send-message](https://api.flowkirim.com/send-message) \
-  -H "Authorization: Bearer YOUR_API_KEY" \
-  -d "number=628123456789" \
-  -d "message=Halo dari Flowkirim!"
+---
 
-  ## ❤️ Dukungan Komunitas & Donasi
+## ❤️ Dukungan Komunitas & Donasi
 
 **Flowkirim** dikembangkan dengan semangat gotong royong untuk membantu ekosistem IT dan UMKM di Indonesia agar bisa menikmati fasilitas **WhatsApp Gateway secara GRATIS**. 
 
@@ -99,3 +94,40 @@ Jika Flowkirim membantu bisnis atau proyek Anda, pertimbangkan untuk "mentraktir
 | 🍩 **Trakteer** | [https://trakteer.id/flowkirim/tip](https://trakteer.id/flowkirim/tip) |
 
 Setiap kontribusi, sekecil apa pun, sangat membantu kami menjaga layanan tetap **Online, Stabil, dan Gratis**. Terima kasih banyak atas kebaikan Anda! 🙏✨
+
+---
+
+## 🔍 Keyword SEO Terkait
+
+Flowkirim relevan untuk pencarian berikut:
+
+- whatsapp gateway gratis  
+- whatsapp api gateway  
+- api whatsapp gateway gratis  
+- api whatsapp gratis  
+- wa api gratis  
+- whatsapp api unofficial  
+- whatsapp gateway indonesia  
+- tool marketing gratis  
+- tool sales gratis  
+- cari lead sales gratis  
+- cari lead marketing gratis  
+
+---
+
+## 🚀 Mulai Sekarang
+
+Gunakan WhatsApp sebagai **mesin otomasi bisnis** Anda tanpa biaya.
+
+👉 Website resmi:
+**https://flowkirim.com**
+
+
+```bash
+# Contoh Request API Sederhana (cURL)
+curl -X POST [https://api.flowkirim.com/send-message](https://api.flowkirim.com/send-message) \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -d "number=628123456789" \
+  -d "message=Halo dari Flowkirim!"
+
+
