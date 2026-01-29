@@ -80,7 +80,7 @@ Hanya butuh 3 langkah untuk mulai menggunakan **WhatsApp Gateway API** ini:
 
 ---
 
-## ❤️ Dukungan Komunitas & Donasi
+## ❤️ Dukungan Komunitas
 
 **Flowkirim** dikembangkan dengan semangat gotong royong untuk membantu ekosistem IT dan UMKM di Indonesia agar bisa menikmati fasilitas **WhatsApp Gateway secara GRATIS**. 
 
