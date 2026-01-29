@@ -9,7 +9,6 @@
 Gunakan WhatsApp sebagai mesin otomatisasi untuk sistem notifikasi, broadcast marketing, hingga integrasi workflow canggih hanya dengan beberapa baris kode.
 
 🌐 **Website Resmi:** [https://flowkirim.com](https://flowkirim.com)  
-📘 **Dokumentasi API:** [https://flowkirim.com/docs](https://flowkirim.com/docs)
 
 ---
 
